@@ -1,5 +1,5 @@
-/bin/
-/Libs/
-/.settings/
-/.classpath
+/katalon/bin/
+/katalon/Libs/
+/katalon/.settings/
+/katalon/.classpath
 .svn/
